@@ -1,4 +1,4 @@
-#### nuxt2.5.13启动警告：hough the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-methods.
+#### 1.nuxt2.5.13启动警告：hough the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-methods.
 ##### 解决方法：
 ```
 // nuxt.config.js
